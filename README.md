@@ -46,5 +46,5 @@ https://simpleicons.org/
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=ffffff)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&labelColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&labelColor=092E20)
 
