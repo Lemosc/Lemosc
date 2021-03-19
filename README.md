@@ -23,6 +23,10 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
+
+<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
+<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
+
 📝 ***Feel free to contact me. I am always here ...*** 
 <br>
 <br>
@@ -30,8 +34,6 @@ https://simpleicons.org/
 [![Gmail](https://img.shields.io/badge/Gmail-lemosc96@gmail.com-white?logo=Gmail&logoColor=white&labelColor=black)](mailto:lemosc96@gmail.com)
 <br>
 
-<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
 
 💻 **Languages and Tools:** 🛠️<br>
