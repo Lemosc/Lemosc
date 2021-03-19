@@ -30,7 +30,6 @@ https://simpleicons.org/
 [![Gmail](https://img.shields.io/badge/Gmail-lemosc96@gmail.com-white?logo=Gmail&logoColor=white&labelColor=black)](mailto:lemosc96@gmail.com)
 <br>
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Sawalqeh</strong></samp></h2>
 <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
