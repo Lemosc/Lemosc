@@ -24,7 +24,6 @@ https://simpleicons.org/
 
 -->
 
-<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
 📝 ***Feel free to contact me. I am always here ...*** 
